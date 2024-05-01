@@ -1,0 +1,15 @@
+D:\TAP\Practice\DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\TAP\Practice\DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\TAP\Practice\DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\TAP\Practice\DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\TAP\Practice\DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\TAP\Practice\DotNet\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
